@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TennysonKnoxLove
+- 👀 I’m interested in javascript, & c++.
+- 🌱 I’m currently learning php.
