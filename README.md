@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @TennysonKnoxLove
-- 👀 I work primarily with javascript, java, html & css.
-- 🌱 I’m currently learning php.
+- 👀 I work primarily with javascript & java.
+- 🌱 I’m currently learning python/AI development
