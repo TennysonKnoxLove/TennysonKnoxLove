@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @TennysonKnoxLove
-- 👀 I work primarily with Python & Typescript & leverage AI tooling for fast development.
-- 🌱 I’m currently learning Java!
+- 👀 I work primarily with Python & Typescript & Java.
+- 🌱 I’m currently training my leetcode!
